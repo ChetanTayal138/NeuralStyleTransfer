@@ -14,11 +14,11 @@ japanse_garden.jpg as the Content image and picasso_selfpotrait.jpg as the Style
 
 
 # *Final Image*
-#Left to add later
-![](result.png)
+
+![](result_image.png)
 
 
-*Imported packages not part of the standard python library.*
+# *Imported packages not part of the standard python library.*
 
 1.) numpy - https://docs.scipy.org/doc/numpy-1.15.4/user/
 
